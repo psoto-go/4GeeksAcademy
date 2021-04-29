@@ -1,0 +1,10 @@
+body {
+	background: #bdbdbd;
+}
+.rounded {
+	height: 200px;
+	object-fit: contain;
+	border-radius: 100%;
+	background-position-x: center;
+	background-position-y: center;
+}

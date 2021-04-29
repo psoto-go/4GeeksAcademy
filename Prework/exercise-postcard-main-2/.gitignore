@@ -1,0 +1,8 @@
+.theia
+
+.learn/_app
+.learn/.session
+.learn/dist
+.learn/reports
+app.tar.gz
+config.json
